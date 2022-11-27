@@ -1,4 +1,4 @@
-# 8-Bit Bias Bounty (2022Q4 Sumission)
+# 8-Bit Bias Bounty (2022Q4 Submission)
 Avast ye! Here be a repository for submission to the [8-bit bias bounty](https://biasbounty.ai/8-bbb).
 
 Based on [PyTorch](https://pytorch.org/) vision transformers and [semilearn](https://github.com/microsoft/Semi-supervised-learning) we applied Semi-Supervised Learning to this challenge.
