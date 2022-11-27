@@ -182,12 +182,13 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # idea folder, uncomment if you don't need it
-# .idea
+.idea
 
 # other
 log.txt
 sampled_label_idx.json
 submission.json
-data/data_bb1_img_recognition/*
+data/data_bb1_img_recognition/**/*.png
+data/data_bb1_img_recognition/**/*.csv
 saved_models/**/*.pth
 saved_models/**/*.json
