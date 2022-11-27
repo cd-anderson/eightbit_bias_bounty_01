@@ -14,7 +14,7 @@ Download the complete code with PyTorch checkpoints or just the checkpoint files
 > If downloading just the checkpoint files, extract them to the ``./save_models`` directory in the cloned repository.
 
 ### Evaluation Data
-Extract the training and test folders from the data_bb1_img_recognition dataset into the ``./data/data_bb1_img_recognition directory`` or follow the usage guidelines below to specify the images and CSV file to evaluate.
+Extract the training and test folders from the data_bb1_img_recognition dataset into the ``./data/data_bb1_img_recognition`` directory or follow the usage guidelines below to specify the images and CSV file to evaluate.
 
 ## Usage
 [bias_bounty.py](bias_bounty.py) accepts two optional command line arguments ``--img_path``, the path to the images and ``--csv_path`` which is the path to the CSV file.
