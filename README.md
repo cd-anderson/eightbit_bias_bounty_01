@@ -23,7 +23,7 @@ python3 bias_bounty.py  --img_path ./data/data_bb1_img_recognition/test --csv_pa
 ```
 
 ## Docker
-We also include the CUDA 11.7 enable Docker container used for testing and development.
+We also include the CUDA 11.7 enabled Docker container used for testing and development.
 
 ### Build the docker image
 ```bash
